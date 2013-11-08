@@ -2,6 +2,7 @@ import java.util.Random;
 public class ListTester
 
 //added comments by Jim
+// added comments by Jackie
 {
 
 	public static void main(String [] args)
